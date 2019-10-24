@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "title": "Homepage"
+  },
+  "title": "page title",
+  "portfolio": [
+    {
+      "title": "this is item one",
+      "body": "some description",
+      "image": "/something.jpg"
+    }
+  ]
+}

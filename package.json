@@ -1,0 +1,18 @@
+{
+  "name": "madebyjonny",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.js",
+  "scripts": {
+    "sass": "sass --watch src/style/main.scss:dist/style/main.css",
+    "dev": "nodemon --ignore dist/ -e js,html,json  build.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "nodemon": "^1.19.4",
+    "sass": "^1.23.1"
+  }
+}
