@@ -1,0 +1,15 @@
+{
+  "contexts": {
+    "pages": {
+      "baseRoute": "/"
+    },
+    "portfolio": {
+      "baseRoute": "/portfolio"
+    }
+  },
+  "globalData": "/src/globaldata.json",
+  "partials": {
+    "header": "/src/partials/header.html",
+    "footer": "/src/partials/footer.html"
+  }
+}
